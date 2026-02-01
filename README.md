@@ -33,3 +33,12 @@ This project was created as part of a learning exercise to understand:
 - File handling with JSON.
 - Secure data updates.
 - Basic banking logic.
+
+## Requirements
+- Make sure python is installed.
+- Install required library - Streamlit
+- Run this command in terminal for installing Streamlit - pip install streamlit
+
+# How to run?
+Run this command in terminal - 
+- streamlit run bank_app.py
